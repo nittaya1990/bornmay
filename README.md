@@ -14,14 +14,17 @@
  </p>
 
 
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
+
 <p align="center">
    <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
  </p>
  
  <h5 align="center">
@@ -32,7 +35,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
  - 🥀 Learning Swift & Objective_C
@@ -41,26 +44,23 @@
    
  - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
- - I do fullstack and much of every thing :heart:
+ - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Full Stack | Competitive Programming </h4>
    </p>
-
-
-
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -98,14 +98,10 @@
 </p>
 -->
 
-### - Podcast ⚡️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
 
 
  ### - What i do
+
 
 <br />
 
@@ -116,5 +112,17 @@
    
 <br />
 
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
